@@ -1,0 +1,29 @@
+{
+    "name": "lol-hash-table",
+    "license": "MIT",
+    "description": "A table of unsigned 32 bit integers used by League of Legends.",
+    "version": "0.9.0",
+    "homepage": "https://github.com/Pupix/lol-hash-table",
+    "author": {
+        "name": "Robert Manolea",
+        "email": "manolea.robert@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Pupix/lol-hash-table.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Pupix/lol-hash-table/issues"
+    },
+    "dependencies": {
+        "expandjs": "^0.9.0",
+        "lol-ini-parser": "*",
+        "lol-hash-util": "*",
+        "xp-fs": "^0.9.0"
+    },
+    "keywords": [
+        "hash table",
+        "league of legends",
+        "lol"
+    ]
+}
